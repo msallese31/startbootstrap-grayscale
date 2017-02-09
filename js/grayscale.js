@@ -44,7 +44,7 @@ function init() {
     var link = document.getElementById('map');
     // link.style.display = 'none'; //or
     // link.style.visibility = 'hidden';
-    var baseDate = new Date("2/09/17")
+    var baseDate = new Date("2/08/17")
     var d = new Date();
 
 

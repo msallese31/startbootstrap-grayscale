@@ -115,42 +115,42 @@ function init() {
     var intro = document.getElementById('intro7');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "This is going to change the text"
+    intro.innerHTML = "Not bound to any specific point in time."
     }
 
     if (diffStack > 6) {
     var intro = document.getElementById('intro8');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "This is going to change the text"
+    intro.innerHTML = "Is bound to a specific location"
     }
 
     if (diffStack > 7) {
     var intro = document.getElementById('intro9');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "This is going to change the text"
+    intro.innerHTML = "Probably going to require a kayak purchase"
     }
 
     if (diffStack > 8) {
     var intro = document.getElementById('intro10');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Not bound to any specific point in time."
+    intro.innerHTML = "Check back on January 26th"
     }
 
     if (diffStack > 9) {
     var intro = document.getElementById('intro11');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Is bound to a specific location"
+    intro.innerHTML = "Check back on Feb 2nd"
     }
 
     if (diffStack > 10) {
     var intro = document.getElementById('intro12');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Probably going to require a kayak purchase"
+    intro.innerHTML = "Check back on Feb 9th"
     }
 
 

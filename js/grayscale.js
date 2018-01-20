@@ -136,21 +136,21 @@ function init() {
     var intro = document.getElementById('intro10');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Check back on January 26th"
+    intro.innerHTML = "No paddles required though ;)"
     }
 
     if (diffStack > 9) {
     var intro = document.getElementById('intro11');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Check back on Feb 2nd"
+    intro.innerHTML = "25S"
     }
 
     if (diffStack > 10) {
     var intro = document.getElementById('intro12');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Check back on Feb 9th"
+    intro.innerHTML = "133E"
     }
 
 

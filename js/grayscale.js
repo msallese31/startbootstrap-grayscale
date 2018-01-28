@@ -143,14 +143,16 @@ function init() {
     var intro = document.getElementById('intro11');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "25S"
+    intro.innerHTML = "Check back on Feb 2nd"
+    // intro.innerHTML = "25S"
     }
 
     if (diffStack > 10) {
     var intro = document.getElementById('intro12');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "133E"
+    intro.innerHTML = "Check back on Feb 9th"
+    // intro.innerHTML = "133E"
     }
 
 

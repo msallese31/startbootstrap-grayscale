@@ -143,7 +143,7 @@ function init() {
     var intro = document.getElementById('intro11');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Check back on Feb 2nd"
+    intro.innerHTML = "The voucher will be redeemable for airplane tickets (shoutout syd)"
     // intro.innerHTML = "25S"
     }
 

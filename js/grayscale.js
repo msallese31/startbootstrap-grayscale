@@ -151,7 +151,7 @@ function init() {
     var intro = document.getElementById('intro12');
     intro.style.display = 'block'; //or
     intro.style.visibility = 'visible';
-    intro.innerHTML = "Check back on Feb 9th"
+    intro.innerHTML = "A trip to Australia/New Zealand "
     // intro.innerHTML = "133E"
     }
 
